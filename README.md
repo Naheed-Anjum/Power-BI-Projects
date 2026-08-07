@@ -4,7 +4,6 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 ---
 
 ## Objectives
-
 - Develop interactive, insight-driven Power BI dashboards
 - Apply structured data cleaning and transformation techniques using Power Query
 - Implement data modeling best practices, including the Star Schema methodology
@@ -14,7 +13,6 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 ---
 
 ## Skills Demonstrated
-
 - Power BI Desktop
 - Power Query (ETL)
 - Data Cleaning and Transformation
