@@ -3,7 +3,9 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 
 ---
 
+
 ## Objectives
+
 - Develop interactive, insight-driven Power BI dashboards
 - Apply structured data cleaning and transformation techniques using Power Query
 - Implement data modeling best practices, including the Star Schema methodology
@@ -12,7 +14,9 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 
 ---
 
+
 ## Skills Demonstrated
+
 - Power BI Desktop
 - Power Query (ETL)
 - Data Cleaning and Transformation
@@ -24,6 +28,7 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 - Performance Optimization
 
 ---
+
 
 ## Dashboard Features
 
@@ -38,6 +43,7 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 
 ---
 
+
 ## Tools and Technologies
 
 - Microsoft Power BI Desktop
@@ -47,11 +53,13 @@ Welcome to the **Power BI Projects** repository. This collection showcases a ser
 
 ---
 
+
 ## Dashboard Previews
 
 Screenshots of each dashboard are available in their respective project folder directory.
 
 ---
+
 
 ## Learning Outcomes
 
@@ -66,11 +74,13 @@ These projects illustrate the ability to:
 
 ---
 
+
 ## Contributions
 
 Feedback and suggestions are welcome. Please feel free to open an issue or submit a pull request.
 
 ---
+
 
 ## Support
 
